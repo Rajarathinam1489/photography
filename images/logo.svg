@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="60px" viewBox="0 0 176 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Lato-Regular, Lato" font-weight="normal">
+        <text id="KataKlimt" font-size="40" letter-spacing="0.57142864">
+            <tspan x="-2" y="29" fill="#E85356">K</tspan>
+            <tspan x="24.9514286" y="29" fill="#212121">ata</tspan>
+            <tspan x="80.1057146" y="29" fill="#E25155">K</tspan>
+            <tspan x="107.177143" y="29" fill="#212121">limt</tspan>
+        </text>
+        <text id="Photography" font-size="18" letter-spacing="0.257142888" fill="#212121">
+            <tspan x="-2" y="56">Photography</tspan>
+        </text>
+    </g>
+</svg>
